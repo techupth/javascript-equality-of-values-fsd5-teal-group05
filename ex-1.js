@@ -16,4 +16,4 @@ NaN === NaN; // false
 
 let objectA = { course: "Web Developer", price: 300000 };
 let objectB = { course: "Web Developer", price: 300000 };
-objectA === objectB; // true
+objectA === objectB; // false
